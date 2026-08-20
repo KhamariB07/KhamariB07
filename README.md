@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/KhamariB07/KhamariB07/main/assets/thm_propic.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/khamaribrown56.png)
