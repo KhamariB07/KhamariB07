@@ -8,7 +8,7 @@ jobs:
     name: Update this repo's tryhackme badge with the latest tryhackme image badge
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: KeizerSec/Tryhackme-Badge@main
         with:
           username: khamaribrown56
