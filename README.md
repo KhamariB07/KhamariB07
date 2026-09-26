@@ -18,7 +18,6 @@ Excelling through my Academic and technical journey in Computer Science has led 
 
 
  
-SIEM
   
 Certifications
 
