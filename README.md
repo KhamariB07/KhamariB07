@@ -19,8 +19,8 @@ Excelling through my Academic and technical journey in Computer Science has led 
 
  
   
-Certifications
+## Certifications
 
 
     
-Projects
+## Projects
