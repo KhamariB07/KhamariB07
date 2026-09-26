@@ -6,7 +6,7 @@ I am an Undergraduate student attending the University of Louisville majoring in
 
 ## Overview
 
-Excelling through my Academic and technical journey in Computer Science has led me to develop a highly evolved passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Excelling through my Academic and technical journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
